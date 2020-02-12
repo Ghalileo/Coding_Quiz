@@ -1,0 +1,39 @@
+h1 {
+    text-align: left;
+}
+
+.introP{
+    text-align: center;
+}
+#begin {
+    text-align: center;
+    margin: 100px 580px;
+    
+}
+
+.Questions {
+    text-align: center;
+    margin: 50px;
+}
+.row-one {
+    margin: 50px;
+}
+.time {
+    float: right;
+
+}
+.containerSpace {
+    display: none;
+}
+.unhide {
+    display: block;
+}
+.hide {
+    display: none;
+}
+.Introduction {
+    text-align: center;
+}
+#results {
+    display: none;
+}
